@@ -14,8 +14,8 @@ HERE ARE THE SPAWN CODES AND NAMES OF THE VEHICLES
 1. 2ndgendually - Dodge RAM 2500
 2. 18f250 - 18' Ford F-250 XLT Super Duty
 3. demonhawk - Jeep Deamon Hawk
-4. ext06 - 2006 Chevrolet Silverado Extended Cab
-5. h3 - 09 Hummer H2 SUT
-6. rrf150w - 18Ford F150 Lifted
+4. ext06 - 06' Chevrolet Silverado Extended Cab
+5. h3 - 09' Hummer H2 SUT
+6. rrf150w - 18' Ford F150 Lifted
 7. rrram - 06' Dodge Ram 1500 Lifted
 8. rtr - 18' Ford Mustang RTR Drag Spec
